@@ -1,0 +1,10 @@
+{
+    "autoSave": "Off",
+    "editor.softWrapEnabled": true,
+    "editor.renderWhitespace": "All",
+    "editor.guides": [60, 72, 80, 85, 120],
+    "fus.sendAllowed": false,
+    "editor.alwaysShowHorizontalScrollbar": true,
+    "editor.honorCamelHumps": true,
+    "editor.caretSmoothAnimation": true
+}
