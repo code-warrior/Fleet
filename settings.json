@@ -7,5 +7,6 @@
     "editor.alwaysShowHorizontalScrollbar": true,
     "editor.honorCamelHumps": true,
     "editor.caretSmoothAnimation": true,
-    "warn.before.quitting": true
+    "warn.before.quitting": true,
+    "restoreWorkspacesOnStartup": false
 }
