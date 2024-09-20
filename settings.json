@@ -6,5 +6,6 @@
     "fus.sendAllowed": false,
     "editor.alwaysShowHorizontalScrollbar": true,
     "editor.honorCamelHumps": true,
-    "editor.caretSmoothAnimation": true
+    "editor.caretSmoothAnimation": true,
+    "warn.before.quitting": true
 }
