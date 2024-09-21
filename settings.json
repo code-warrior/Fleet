@@ -8,5 +8,6 @@
     "editor.honorCamelHumps": true,
     "editor.caretSmoothAnimation": true,
     "warn.before.quitting": true,
-    "restoreWorkspacesOnStartup": false
+    "restoreWorkspacesOnStartup": false,
+    "launchTerminalOnOpen": true
 }
