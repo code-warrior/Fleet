@@ -1,13 +1,29 @@
 {
-    "autoSave": "Off",
-    "editor.softWrapEnabled": true,
-    "editor.renderWhitespace": "All",
-    "editor.guides": [60, 72, 80, 85, 120],
-    "fus.sendAllowed": false,
-    "editor.alwaysShowHorizontalScrollbar": true,
-    "editor.honorCamelHumps": true,
-    "editor.caretSmoothAnimation": true,
-    "warn.before.quitting": true,
-    "restoreWorkspacesOnStartup": false,
-    "launchTerminalOnOpen": true
+  "launchTerminalOnOpen": true,
+  "fus.sendAllowed": false,
+  "editor.alwaysShowHorizontalScrollbar": true,
+  "editor.showStickyLines": true,
+  "editor.renderWhitespace": "All",
+  "editor.caretShape": "Vertical",
+  "editor.softWrapEnabled": true,
+  "showEmptyStateOnLastClosedWindow": false,
+  "restoreWorkspacesOnStartup": false,
+  "editor.fontFamily": "Operator Mono",
+  "editor.guides": [60, 72, 80, 85, 120],
+  "autoSave": "Off",
+  "editor.fontSize": 14.0,
+  "editor.lineSpacing": 1.4,
+  "editor.honorCamelHumps": true,
+  "aiCompletion.enabled": false,
+  "completion.inline.highlighting.enabled": false,
+  "editor.caretSmoothAnimation": false,
+  "warn.before.quitting": true,
+  "zoomLevel": 1.1,
+  "editor.caretBlinkingEnabled": true,
+  "plugins": [
+      {
+          "type": "add",
+          "pluginName": "com.github.catppuccin.fleet"
+      }
+  ]
 }
