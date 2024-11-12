@@ -25,5 +25,6 @@
           "type": "add",
           "pluginName": "com.github.catppuccin.fleet"
       }
-  ]
+  ],
+  "theme": "catppuccin-frappe"
 }
