@@ -20,11 +20,5 @@
   "warn.before.quitting": true,
   "zoomLevel": 1.1,
   "editor.caretBlinkingEnabled": true,
-  "plugins": [
-      {
-          "type": "add",
-          "pluginName": "com.github.catppuccin.fleet"
-      }
-  ],
-  "theme": "catppuccin-frappe"
+  "theme": "dark"
 }
