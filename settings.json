@@ -20,5 +20,8 @@
   "warn.before.quitting": true,
   "zoomLevel": 1.1,
   "editor.caretBlinkingEnabled": true,
-  "theme": "dark"
+  "theme": "dark",
+  "git.revert.confirm": false,
+  "git.push.confirm": false,
+  "git.autoFetch": false,
 }
