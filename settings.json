@@ -24,4 +24,5 @@
   "git.revert.confirm": false,
   "git.push.confirm": false,
   "git.autoFetch": false,
+  "terminal.copyOnSelection": true
 }
